@@ -1,5 +1,6 @@
 # Try out tensors as a start
 # https://pytorch.org/tutorials/beginner/basics/tensorqs_tutorial.html
+# Notes to self:
 # "conda activate pytorchOne"
 # "conda list" to see what packages are already there
 # use "python" for the conda version of python
